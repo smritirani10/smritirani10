@@ -16,27 +16,27 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Sunny Kumar Jha
+name: Smriti Kuamri
 located_in: Kolkata, India
-current_job: Frontend Developer
+current_job: Java Full Stack Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Electronics and Communication",
+    "  Developer",
+    "Bachelors in Computer Science ",
   ]
 
 fields_of_interests:
   [
-    "Web Development"
+    "Backend Development"
   ]
 technical_background:
   [
-    "Frontend Developer"
+    "Backend Developer"
   ]
   
-currently_learning: ["MongoDb, Express, Node.Js, Angular, and React"]
+currently_learning: ["Java, SpringBoot, Hibernate, SpringMVC, Pl/Sql, Ajax, Jquery, Javascript, Node.js, Angular"]
 2025 Goals: ["learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Traveling"]
+hobbies: ["Sports", "Traveling"]
 ```
   
 ---  
