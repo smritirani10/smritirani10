@@ -34,9 +34,9 @@ technical_background:
     "Backend Developer"
   ]
   
-Skills: ["Java, SpringBoot, Hibernate, SpringMVC, Pl/Sql, Ajax, Jquery, Javascript, Node.js, Angular"]
+Skills: ["Java, SpringBoot, Microservices,Hibernate, SpringMVC, Pl/Sql, Ajax, Jquery, Javascript, Node.js, Angular, AWS, Docker, Redis, CI/CD "]
 2025 Goals: ["learn at least 5 new Technologies."]
-hobbies: ["Sports", "Traveling"]
+hobbies: ["Sports", "Travelling"]
 ```
   
 ---  
